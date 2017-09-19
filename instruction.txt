@@ -1,0 +1,5 @@
+resources 	- arquivos criados por mim
+	css:	style.css
+
+vendors		- arquivos baixado da internet
+	css:	normalize.css
