@@ -3,3 +3,4 @@ resources 	- arquivos criados por mim
 
 vendors		- arquivos baixado da internet
 	css:	normalize.css
+			grid.css
