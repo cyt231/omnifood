@@ -19,9 +19,9 @@ O website foi fruto de um conjunto de aulas.
 
 ## Aulas implementadas:
 
-* (3/3) - Construção do Cabeçalho
-* (2/2) - Construção da Seção *"Features"*
-* (0/2) - Construção da Seção *"Favorite Meals"*
+* (3/3) - Construção do Cabeçalho - **FEITO**
+* (2/2) - Construção da Seção *"Features"* - **FEITO**
+* (2/2) - Construção da Seção *"Favorite Meals"* - **FEITO**
 * (0/2) - Construção da Seção *"How it Works"*
 * (0/2) - Construção da Seção *"Cities"*
 * (0/2) - Construção da Seção *"Testimonials"*
