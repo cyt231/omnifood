@@ -15,3 +15,17 @@ O website usa um design de página simples (one page) contendo todas as informa�
 ##Sobre o projeto
 
 O website foi fruto de um conjunto de aulas.
+
+Aulas implementadas:
+* (3/3) - Construção do Cabeçalho
+* (2/2) - Construção da Seção "Features" 
+* (0/2) - Construção da Seção "Favorite Meals"
+* (0/2) - Construção da Seção "How it Works"
+* (0/2) - Construção da Seção "Cities"
+* (0/2) - Construção da Seção "Testimonials"
+* (0/2) - Construção da Seção "Sign-up"
+* (0/2) - Construção do Formulário "Form"
+* (0/2) - Construção do Rodapé
+* (0/3) - Responsive
+* (0/7) - Efeitos Manerios ;) 
+* (0/5) - Otimização e Lançamento
