@@ -19,15 +19,15 @@ O website foi fruto de um conjunto de aulas.
 
 ## Aulas implementadas:
 
-* (3/3) - Construção do Cabeçalho - **FEITO**
-* (2/2) - Construção da Seção *"Features"* - **FEITO**
-* (2/2) - Construção da Seção *"Favorite Meals"* - **FEITO**
-* (0/2) - Construção da Seção *"How it Works"*
+* (3/3) - Construção do Cabeçalho - **PRONTO**
+* (2/2) - Construção da Seção *"Features"* - **PRONTO**
+* (2/2) - Construção da Seção *"Favorite Meals"* - **PRONTO**
+* (2/2) - Construção da Seção *"How it Works"* - **PRONTO**
 * (0/2) - Construção da Seção *"Cities"*
 * (0/2) - Construção da Seção *"Testimonials"*
 * (0/2) - Construção da Seção *"Sign-up"*
 * (0/2) - Construção do Formulário *"Form"*
 * (0/2) - Construção do Rodapé
 * (0/3) - Responsive
-* (0/7) - Efeitos **Manerios** ;) 
+* (0/7) - Efeitos **Manerios ;)** 
 * (0/5) - Otimização e Lançamento
