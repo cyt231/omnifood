@@ -28,7 +28,6 @@ O website foi fruto de um conjunto de aulas.
 * (0/2) - Construção da Seção *"Sign-up"*
 * (0/2) - Construção do Formulário *"Form"*
 * (0/2) - Construção do Rodapé
-
 * (0/3) - Responsive
 * (0/7) - Efeitos **Manerios ;)** 
 * (0/5) - Otimização e Lançamento
