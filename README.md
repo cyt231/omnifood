@@ -8,9 +8,9 @@ O website usa um design de p√°gina simples (one page) contendo todas as informa√
 
 ##Frameworks
 
-* [Normalize] - (http://necolas.github.io/normalize.css/)
+* [Normalize](http://necolas.github.io/normalize.css/)
 * [Grid] - 
-* [Ionicons] - (http://ionicons.com)
+* [Ionicons](http://ionicons.com)
 
 ##Sobre o projeto
 
