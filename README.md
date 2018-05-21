@@ -24,7 +24,7 @@ O website foi fruto de um conjunto de aulas.
 * (2/2) - Construção da Seção *"Favorite Meals"* - **PRONTO**
 * (2/2) - Construção da Seção *"How it Works"* - **PRONTO**
 * (2/2) - Construção da Seção *"Cities"* - **PRONTO**
-* (0/2) - Construção da Seção *"Testimonials"* - **PRONTO**
+* (2/2) - Construção da Seção *"Testimonials"* - **PRONTO**
 * (0/2) - Construção da Seção *"Sign-up"*
 * (0/2) - Construção do Formulário *"Form"*
 * (0/2) - Construção do Rodapé
