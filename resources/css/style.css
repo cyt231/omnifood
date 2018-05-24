@@ -512,6 +512,45 @@ cite img{
 /* FORM SECTION  								*/
 /*----------------------------------------------*/
 
+.map-box{
+	width: 100%;
+	height: 500px;
+	position: relative;
+}
+
+.map{
+	width:100%;
+	height: 500px;
+}
+
+.form-box{
+	position: absolute;
+	top: 0;
+	right: 0;
+	background-color: rgba(255,255,255,0.85);
+	height: 500px;
+	padding-top: 40px;
+	width: 50%;
+	z-index: 2;
+}
+
+.form-box h3{
+	text-align: center;
+	width: 60%;
+	margin-left: 20%;
+	margin-bottom: 30px;
+}
+
+.form-box h3:after{
+	display: block;
+	height: 2px;
+	background-color: #e67e22;
+	content: " ";
+	width: 150px;
+	margin: 10px auto 0 auto;
+}
+
+
 .contact-form{
 	width: 60%;
 	margin: 0 auto;

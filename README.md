@@ -18,6 +18,7 @@ O website usa um design de página simples (one page) contendo todas as informa�
 * [Responsive Grid System](http://www.responsivegridsystem.com/)
 * [Ionicons](http://ionicons.com)
 * [Smoth Scrolling](https://css-tricks.com/snippets/jquery/smooth-scrolling/)
+* [gMaps](https://hpneo.github.io/gmaps/)
 
 ## Sobre o projeto
 
@@ -43,4 +44,5 @@ O website foi fruto de um conjunto de aulas.
 * (1/1) - Favicons - **PRONTO**
 * (1/1) - Performance Otimization - **PRONTO**
 * (1/1)	- SEO - **PRONTO**
-* (0/4) - Otimização e Lançamento
+* (1/1) - Adicionado plugin gMaps - **PRONTO**
+* (0/1) - PHP form connection - 

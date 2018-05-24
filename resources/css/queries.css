@@ -36,7 +36,12 @@ section{ padding: 60px 0px; }
 .plan-price-month{font-size:250%;}
 .plan-price-meal{font-size:98%;}
 
-.contact-form{width:85%;}
+.contact-form{width:90%;}
+
+.form-box{
+	width: 60%;
+}
+
 
 }
 
@@ -98,6 +103,23 @@ input[type=checkbox]{margin: 5px 2px 5px 0;}
 
 footer{padding: 10px 20px;}
 .social-icons{float:left;}
+
+
+.map-box{
+	height: auto;
+}
+
+.map{display: none;}
+
+.form-box{
+	position: relative;
+	padding-top: 30px;
+	width: 100%;
+}
+
+.form-box h3{
+	display: none;
+}
 
 }
 /* Small Phone - From: 0 to 480px */
