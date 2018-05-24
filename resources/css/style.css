@@ -556,6 +556,19 @@ cite img{
 	margin: 0 auto;
 }
 
+.form-message{
+	width: 100%;
+	margin: 0 auto;
+	padding: 10px 20px;
+	border-top-right-radius: : 3px;
+	border-top-left-radius: : 3px;
+	color: #fff;
+	text-align: center;
+}
+
+.success{background-color: #009432;}
+.fail{background-color: #EA2027;}
+
 input[type=text], 
 input[type=email], 
 select,
