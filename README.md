@@ -15,7 +15,7 @@ O website usa um design de p√°gina simples (one page) contendo todas as informa√
 * [Selectivizr](https://cdn.jsdelivr.net/selectivizr/1.0.3b/selectivizr.min.js)
 * [HTML 5 SHIV](https://cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js)
 * [RESPOND](https://cdn.jsdelivr.net/respond/1.4.2/respond.min.js)
-* [Grid] - 
+* [Responsive Grid System](http://www.responsivegridsystem.com/)
 * [Ionicons](http://ionicons.com)
 * [Smoth Scrolling](https://css-tricks.com/snippets/jquery/smooth-scrolling/)
 
