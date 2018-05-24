@@ -29,5 +29,9 @@ O website foi fruto de um conjunto de aulas.
 * (2/2) - Construção do Formulário *"Form"* - **PRONTO**
 * (2/2) - Construção do Rodapé - **PRONTO**
 * (3/3) - Responsive - **PRONTO**
-* (1/7) - Efeitos **Manerios ;)** - ***Trabalhando***
+* (2/2)	- Menu fixo - **PRONTO**
+* (1/1)	- Scroll Effect (Button) - **PRONTO**
+* (1/1)	- Scroll Effect (w/ Smoth Scrolling) - **PRONTO**
+* (1/1)	- Animation on Scroll - **PRONTO**
+* (1/1)	- Responsive Navegation - **PRONTO**
 * (0/5) - Otimização e Lançamento
