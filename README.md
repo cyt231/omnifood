@@ -40,4 +40,7 @@ O website foi fruto de um conjunto de aulas.
 * (1/1)	- Scroll Effect (w/ Smoth Scrolling) - **PRONTO**
 * (1/1)	- Animation on Scroll - **PRONTO**
 * (1/1)	- Responsive Navegation - **PRONTO**
-* (0/5) - Otimização e Lançamento
+* (1/1) - Favicons - **PRONTO**
+* (1/1) - Performance Otimization - **PRONTO**
+* (1/1)	- SEO - **PRONTO**
+* (0/4) - Otimização e Lançamento
