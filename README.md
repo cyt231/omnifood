@@ -7,11 +7,17 @@ Um website fictício de um restaurante fictício. O restaurante oferece um servi
 
 O website usa um design de página simples (one page) contendo todas as informações necessárias para o cliente entender sobre o restaurante.
 
-## Frameworks
+## Recursos externos utilizados
 
+* [Google Font](https://fonts.googleapis.com/)
+* [jQuery](https://jquery.com/)
 * [Normalize](http://necolas.github.io/normalize.css/)
+* [Selectivizr](https://cdn.jsdelivr.net/selectivizr/1.0.3b/selectivizr.min.js)
+* [HTML 5 SHIV](https://cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js)
+* [RESPOND](https://cdn.jsdelivr.net/respond/1.4.2/respond.min.js)
 * [Grid] - 
 * [Ionicons](http://ionicons.com)
+* [Smoth Scrolling](https://css-tricks.com/snippets/jquery/smooth-scrolling/)
 
 ## Sobre o projeto
 
