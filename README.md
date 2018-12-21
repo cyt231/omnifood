@@ -45,4 +45,4 @@ O website foi fruto de um conjunto de aulas.
 * (1/1) - Performance Otimization - **PRONTO**
 * (1/1)	- SEO - **PRONTO**
 * (1/1) - Adicionado plugin gMaps - **PRONTO**
-* (1/1) - PHP form connection (Não funciona pois precisa de um weserver)
+* (1/1) - PHP form connection (Não funciona pois precisa de um webserver)
